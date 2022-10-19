@@ -1,0 +1,13 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "vercel deploy --prod",
+    "local": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
